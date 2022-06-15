@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Result</title>
+</head>
+<body>
+<table border="1" cellpadding="2px" cellspacing="0">
+<tr>
+<th rowspan="3"> name </th>
+<th colspan="6"> subject</th>
+<th> rowspan="3"> Total </th>
+</tr>
+<tr>
+<th>colspan="2"> web tec. </th>
+<th>colspan="2"> Java </th>
+<th>colspan="2"> account </th>
+</tr>
+<tr>
+<th>T</th>
+<th>P</th>
+<th>T</th>
+<th>P</th>
+<th>T</th>
+<th>P</th>
+</tr>
+</html>
